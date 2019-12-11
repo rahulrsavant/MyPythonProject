@@ -45,7 +45,7 @@ class SingleLinkList(Node):
 
 
 if __name__ == '__main__':
-  #  root = Node()
+  #  root = Node()  cnage through github
     ll = SingleLinkList()
     ll.insert_at_end(root, 2)
     ll.insert_at_end(root, 3)
